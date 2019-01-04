@@ -1,0 +1,58 @@
+body {
+	background-color: #496C89
+}
+
+header {
+	text-align: center;
+}
+
+header h1 {
+	display: inline;
+	font-family: 'Staatliches', cursive;
+	font-size: 3em;
+	color: #123552;
+}
+
+header h2 {
+	display: inline;
+	font-family: 'Dancing Script', cursive;
+	color: #718DA5;
+}
+
+
+nav {
+	text-decoration: none;
+}
+
+nav ul {
+  list-style-type: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  font-family: 'Staatliches', cursive;
+  font-size: 1.5em;
+
+}
+
+nav li a:link {
+  	color: #123552;
+}
+
+nav li a:visited {
+  background-color: #111;
+  color: #123552;
+}
+
+nav li a:active {
+  background-color: #111;
+  color: #123552;
+}
+
+nav li a:hover {
+  background-color: #718DA5;
+  color: #123552;
+}
